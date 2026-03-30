@@ -45,11 +45,11 @@ The backend uses Server-Sent Events (SSE) to stream results as each candidate co
 
 | Dimension | Weight | What It Measures |
 |-----------|--------|------------------|
-| **Full-Stack Breadth** | 25% | Evidence of frontend + backend + database work across roles |
-| **Tech Stack Alignment** | 19% | Overlap with target stack: Next.js, TypeScript, FastAPI, Python, Postgres |
-| **Startup Experience** | 25% | History at VC-backed startups pre-Series D, especially as early employee |
-| **IC Signal** | 13% | Individual contributor vs. management trajectory |
-| **Caliber & Trajectory** | 18% | Company quality, career growth, scope of impact over time |
+| **Full-Stack Breadth** | 22% | Evidence of frontend + backend + database work across roles |
+| **Tech Stack Alignment** | 27% | Overlap with target stack: Next.js, TypeScript, FastAPI, Python, Postgres |
+| **Startup Experience** | 22% | History at VC-backed startups pre-Series D, especially as early employee |
+| **IC Signal** | 12% | Individual contributor vs. management trajectory |
+| **Caliber & Trajectory** | 17% | Company quality, career growth, scope of impact over time |
 
 **Flight Risk** (scored 1-5, separate from composite): Likelihood the candidate is open to a move based on tenure, company trajectory, and career signals.
 
